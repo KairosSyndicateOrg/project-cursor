@@ -22,7 +22,7 @@ Result
 
 ## Team
 
-Nikhil and Aditya
+Anuj and Aditya
 
 ## Current Status
 
